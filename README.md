@@ -1,4 +1,4 @@
-# Pruevas de Generation
+# Pruebas de Generation
 
 ## 📌 Descripción
 
